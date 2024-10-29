@@ -1,1 +1,4 @@
--- Maquillaje -- Sombreros -- Joyeria -- Carteras
+-- Maquillaje 
+-- Sombreros 
+-- Joyeria 
+-- Carteras
